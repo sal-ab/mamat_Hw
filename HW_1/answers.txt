@@ -1,0 +1,3 @@
+a) we estimate that it would take at least 20 minutes to go ovet the 26 links.
+b)finding things to shop online on budget. 
+c)we would need a time-conditioned infinite loop,and we can set a condition that checks is the name of the player has been scanned.
